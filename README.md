@@ -4,7 +4,7 @@ This is the code I've built on my Systems Performance and Evaluation lecture.
 
 ### What is this repository for? ###
 
-* SPE Practical Exercises
+* SPE Practical Exercise
 
 ### How do I get set up? ###
 
