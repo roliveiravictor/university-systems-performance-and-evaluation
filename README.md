@@ -1,6 +1,6 @@
 # README #
 
-Those are the codes I've built on my Systems Performance and Evaluation lecture.
+This is the code I've built on my Systems Performance and Evaluation lecture.
 
 ### What is this repository for? ###
 
